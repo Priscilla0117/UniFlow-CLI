@@ -1,0 +1,7 @@
+1001,Oswald,Digital Thinking & Innovation,B
+1002,Jimmy,Introduction to Networking,B
+1002,Jimmy,Digital Thinking & Innovation,C
+1002,Jimmy,English Language,A
+1003,Christine,Introduction to Networking,A
+1001,Oswald,Business and Ethics,D
+1001,Oswald,Introduction to Networking,A

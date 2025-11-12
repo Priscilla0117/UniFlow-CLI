@@ -1,0 +1,11 @@
+100,Introduction to Networking,10
+101,Digital Thinking & Innovation,10
+102,C Programming,10
+103,Business and Ethics,10
+104,Economics (Lecture),10
+105,Financial Knowledge,10
+106,Malay Language,10
+107,English,10
+108,Geography,6
+109,Science,9
+110,Chinese,12

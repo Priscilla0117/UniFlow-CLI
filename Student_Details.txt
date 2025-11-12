@@ -1,0 +1,3 @@
+1001, Oswald, Information Technology, Computer Science, oswaldloh929@gmail.com
+1002, Jimmy, Information Technology, Computer Science, jimmy123@gmail.com
+1003, Christine, Information Technology, Computer Science, christine221@gmail.com

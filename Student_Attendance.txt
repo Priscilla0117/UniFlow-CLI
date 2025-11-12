@@ -1,0 +1,5 @@
+1001,Digital Thinking & Innovation,Present,2024-11-25,14:55
+1002,Introduction to Networking,Present,2024-11-25,14:58
+1002,Introduction to Networking,Present,2025-01-18,01:03
+1001,Introduction to Networking,Present,2025-01-18,22:47
+1001,Introduction to Networking,Late,2025-01-19,22:54
